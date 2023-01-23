@@ -23,3 +23,13 @@ body {
 .rating img {
   width: 40px;
 }
+
+.heading {
+  margin: 5px;
+  font-size: 30px;
+}
+
+.ratings-container {
+  display: flex;
+  padding: 20px 0;
+}
